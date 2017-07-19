@@ -3,6 +3,11 @@ Pybasics
 
 
 ## WIP
+
+Table of contents 
++..................
++ 1.introduction to python
+
 This repository is splitted from [pysessions](https://github.com/lfapython/pysessions)
 
 see [datascience](https://github.com/lfapython/datascience) for datascience.
