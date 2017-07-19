@@ -7,6 +7,7 @@ Pybasics
 Table of contents 
 +..................
 + 1.introduction to python
++ 2. practice
 
 This repository is splitted from [pysessions](https://github.com/lfapython/pysessions)
 
